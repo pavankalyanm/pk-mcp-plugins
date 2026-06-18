@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "mails-bridge",
-      "description": "Multi-account email access via IMAP/SMTP. Supports Gmail, Outlook, Yahoo, iCloud, AOL, Zoho, Fastmail, ProtonMail, and any custom IMAP/SMTP provider.",
+      "description": "Bridge Claude to your email accounts — search, read, send, draft, and organize emails across Gmail, Outlook, Yahoo, iCloud, AOL, Zoho, Fastmail, ProtonMail, or any custom IMAP/SMTP provider. Add unlimited accounts with auto-detected server settings. Setup takes 2 minutes: generate an App Password from your email provider, tell Claude your email and password, and you're connected. Use it in Cowork for daily inbox briefings, cross-account searches, batch drafting, and automated email workflows. 16 tools included: email_search, email_read_message, email_read_thread, email_send, email_create_draft, email_list_drafts, email_list_folders, email_move_message, email_mark_read, email_mark_unread, email_star_message, email_get_profile, email_add_account, email_remove_account, email_list_accounts, email_supported_providers.",
       "version": "0.2.0",
       "author": {
         "name": "Pavan Kalyan"
