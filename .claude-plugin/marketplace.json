@@ -1,0 +1,24 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-plugins",
+  "description": "MCP plugins for Claude Code — email, productivity, and developer tools.",
+  "owner": {
+    "name": "Pavan Kalyan",
+    "url": "https://github.com/pavankalyanm"
+  },
+  "plugins": [
+    {
+      "name": "mails-bridge",
+      "displayName": "Mails Bridge",
+      "description": "Multi-account email access via IMAP/SMTP. Supports Gmail, Outlook, Yahoo, iCloud, AOL, Zoho, Fastmail, ProtonMail, and any custom IMAP/SMTP provider.",
+      "version": "0.2.0",
+      "author": {
+        "name": "Pavan Kalyan"
+      },
+      "source": "./mails-bridge",
+      "category": "productivity",
+      "tags": ["email", "gmail", "outlook", "imap", "smtp", "multi-account"],
+      "homepage": "https://github.com/pavankalyanm/claude-plugins"
+    }
+  ]
+}

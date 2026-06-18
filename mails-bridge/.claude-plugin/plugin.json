@@ -1,0 +1,9 @@
+{
+  "name": "mails-bridge",
+  "version": "0.2.0",
+  "description": "Multi-account email access via IMAP/SMTP. Supports Gmail, Outlook, Yahoo, iCloud, AOL, Zoho, Fastmail, ProtonMail, and any custom IMAP/SMTP provider.",
+  "author": {
+    "name": "Pavan Kalyan"
+  },
+  "keywords": ["email", "gmail", "outlook", "yahoo", "icloud", "multi-account", "imap", "smtp"]
+}

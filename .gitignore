@@ -1,0 +1,9 @@
+__pycache__/
+*.py[oc]
+.venv/
+data/accounts.json
+data/token_*.json
+*.egg-info
+dist/
+build/
+uv.lock
