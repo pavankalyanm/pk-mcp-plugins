@@ -1,6 +1,6 @@
 {
-  "name": "pk-mcp-plugins",
-  "description": "MCP plugins for Claude Code — email, productivity, and developer tools.",
+  "name": "makesense-plugins-claude",
+  "description": "Make Sense Plugins by PK",
   "owner": {
     "name": "Pavan Kalyan"
   },
@@ -14,7 +14,7 @@
       },
       "source": "./mails-bridge",
       "category": "productivity",
-      "homepage": "https://github.com/pavankalyanm/claude-plugins"
+      "homepage": "https://github.com/pavankalyanm/makesense-plugins-claude"
     }
   ]
 }
